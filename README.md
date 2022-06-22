@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiagomanso" alt="santiagomanso" /></a> </p>
 
+- :page_facing_up: [download my curriculum](https://github.com/santiagomanso/website/raw/main/src/assets/cv.pdf)
+
 - 🔭 I’m currently working on [A pet schedules web app](https://dazzling-kleicha-493283.netlify.app/)
 
 - 🌱 I’m currently learning **Redux**
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **mansi.manito@gmail.com**
 
-- :page_facing_up: [download my curriculum](https://github.com/santiagomanso/website/raw/main/src/assets/cv.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
