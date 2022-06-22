@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Manso Castro</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">❤️Frontend developer from Spain living in Berlin, Germany!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagomanso&label=Profile%20views&color=0e75b6&style=flat" alt="santiagomanso" /> </p>
 
@@ -14,6 +14,8 @@
 - 👨‍💻 All of my projects are available at [www.santimanso.com](www.santimanso.com)
 
 - 📫 How to reach me **mansi.manito@gmail.com**
+
+- :page_facing_up: [download my curriculum](https://github.com/santiagomanso/website/raw/main/src/assets/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
