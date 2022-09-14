@@ -7,8 +7,6 @@
 
 - :page_facing_up: [download my curriculum](https://github.com/santiagomanso/website/raw/main/src/assets/cv.pdf)
 
-- 🔭 I’m currently working on [A pet schedules web app](https://dazzling-kleicha-493283.netlify.app/)
-
 - 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **Open source**
