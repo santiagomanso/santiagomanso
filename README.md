@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open source**
 
-- 👨‍💻 All of my projects are available at <a href="https://santimanso.com/" target="blank">santimanso.com</a>
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://santimanso.com/" >santimanso.com</a>
 
 - 📫 How to reach me **mansi.manito@gmail.com**
 
