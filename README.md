@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Manso Castro</h1>
-<h3 align="center">❤️Frontend developer from Spain living in Berlin, Germany!</h3>
+<h3 align="center">❤️Fullstack developer from Spain living in Berlin, Germany!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagomanso&label=Profile%20views&color=0e75b6&style=flat" alt="santiagomanso" /> </p>
 
