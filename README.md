@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiagomanso" alt="santiagomanso" /></a> </p>
 
-- :page_facing_up: [download my curriculum](https://github.com/santiagomanso/website/raw/main/src/assets/cv.pdf)
+- :page_facing_up: [download my curriculum](https://github.com/santiagomanso/santimanso.com/raw/main/src/assets/SantiagoMansoCastro_CV.pdf)
+
 
 - 🌱 I’m currently learning **Redux**
 
