@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at <a target="_blank" rel="noreferrer" href="https://santimanso.com/" >santimanso.com</a>
 
-- 📫 How to reach me **mansi.manito@gmail.com**
+
 
 
 
